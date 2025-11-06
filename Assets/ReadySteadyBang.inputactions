@@ -89,6 +89,34 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "Ball",
+            "id": "c25fd0e4-14e1-4d2c-961f-6ad81e20565a",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "3b9ca22f-72fe-4af2-92aa-654bc0dd19dc",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6b909572-c66e-4108-9364-85b1f92df9a4",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": []
