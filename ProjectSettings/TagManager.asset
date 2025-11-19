@@ -6,6 +6,7 @@ TagManager:
   tags:
   - P1
   - P2
+  - cube
   layers:
   - Default
   - TransparentFX
